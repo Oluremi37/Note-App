@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = "https://note-app-backend-rust.vercel.app/";
+const baseURL = "https://note-app-backend-rust.vercel.app/api";
 
 const API = axios.create({ baseURL: baseURL });
 
