@@ -34,7 +34,7 @@ export const GlobalStyles = createGlobalStyle`
     width: 100%;
     height: 100vh;
     margin: 0 auto;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     overflow-x: hidden;
     overflow-y: scroll;
 
